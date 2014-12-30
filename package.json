@@ -1,6 +1,6 @@
 {
   "name": "feather-optimizer-htmlmin",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "feather optimizer html minifier",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,6 @@
     "name": "jsyczhanghao@sina.com"
   },
   "dependencies": {
-    "html-minifier": "0.6.9"
+    "html-compress": "0.0.2"
   }
 }

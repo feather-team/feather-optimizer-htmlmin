@@ -1,8 +1,8 @@
-var minify = require('html-minifier').minify;
+var compress = require('html-compress').compress;
 
 module.exports = function(content, file, conf){
     if(file.isHtmlLike){
-    	content = minify(content, conf);
+    	content = compress(content, conf);
     }
 
     return content;
