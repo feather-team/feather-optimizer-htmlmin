@@ -1,0 +1,25 @@
+{
+  "name": "feather-optimizer-htmlmin",
+  "version": "0.1.0",
+  "description": "feather optimizer html minifier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/feather-ui/feather-optimizer-htmlmin.git"
+  },
+  "keywords": [
+    "feather",
+    "optimizer",
+    "html",
+    "minifier"
+  ],
+  "author": {
+    "name": "jsyczhanghao@sina.com"
+  },
+  "dependencies": {
+    "html-minifier": "0.6.9"
+  }
+}
